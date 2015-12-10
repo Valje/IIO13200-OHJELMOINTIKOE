@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kayttajat>
+  <kayttaja>
+    <nimi>Linus</nimi>
+    <salasana>linus</salasana>
+   </kayttaja>
+   <kayttaja>
+    <nimi>Richard</nimi>
+    <salasana>richard</salasana>
+   </kayttaja>
+   <kayttaja>
+    <nimi>Monty</nimi>
+    <salasana>monty</salasana>
+   </kayttaja>
+   <kayttaja>
+    <nimi>Bjarne</nimi>
+    <salasana>bjarne</salasana>
+   </kayttaja>
+</kayttajat>
